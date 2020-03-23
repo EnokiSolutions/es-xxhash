@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES.XxHash", "ES.XxHash\ES.XxHash.csproj", "{386D8C74-09B1-4E4C-9C53-886D75288D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES.XxHash.Test", "ES.XxHash.Test\ES.XxHash.Test.csproj", "{556D5939-19D8-4F8C-BA83-99780F1573EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386D8C74-09B1-4E4C-9C53-886D75288D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D8C74-09B1-4E4C-9C53-886D75288D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D8C74-09B1-4E4C-9C53-886D75288D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D8C74-09B1-4E4C-9C53-886D75288D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556D5939-19D8-4F8C-BA83-99780F1573EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556D5939-19D8-4F8C-BA83-99780F1573EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556D5939-19D8-4F8C-BA83-99780F1573EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556D5939-19D8-4F8C-BA83-99780F1573EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
